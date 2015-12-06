@@ -1,0 +1,36 @@
+{
+  "name": "textlint-config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azu/my-textlint-config.git"
+  },
+  "author": "azu",
+  "email": "azuciao@gmail.com",
+  "homepage": "https://github.com/azu/my-textlint-config",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/my-textlint-config/issues"
+  },
+  "version": "1.0.0",
+  "description": "My textlint config",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "textlint": "^5.0.3"
+  },
+  "dependencies": {
+    "textlint-plugin-jtf-style": "^0.8.8",
+    "textlint-rule-max-ten": "^2.0.0",
+    "textlint-rule-no-doubled-joshi": "^2.0.0",
+    "textlint-rule-no-mix-dearu-desumasu": "^1.4.0",
+    "textlint-rule-no-start-duplicated-conjunction": "^1.0.6",
+    "textlint-rule-prh": "^2.2.0",
+    "textlint-rule-sentence-length": "^1.0.4",
+    "textlint-rule-spellcheck-tech-word": "^4.1.0"
+  }
+}
