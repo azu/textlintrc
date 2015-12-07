@@ -1,6 +1,6 @@
 {
   "plugins": [
-    "jtf-style"
+    "jser-markdown"
   ],
   "rules": {
     "max-ten": {
