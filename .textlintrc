@@ -17,6 +17,7 @@
     },
     "spellcheck-tech-word": true,
     "no-mix-dearu-desumasu": true,
+    "no-dropping-the-ra": true,
     "jtf-style/4.2.2.疑問符(？)": false,
     "jtf-style/4.3.1.丸かっこ（）": false
   }
