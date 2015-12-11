@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "textlint-plugin-jser-markdown": "^1.0.1",
-    "textlint-plugin-jtf-style": "^0.8.8",
+    "textlint-plugin-jtf-style": "^1.0.1",
     "textlint-rule-max-ten": "^2.0.0",
     "textlint-rule-no-doubled-joshi": "^2.0.0",
     "textlint-rule-no-mix-dearu-desumasu": "^1.4.0",
