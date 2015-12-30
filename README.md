@@ -1,23 +1,6 @@
-WIP
+# My Textlint config
 
-Work on Thought
+textlintの自分用設定
 
-## How to share config?
-
-Options 1
-
-- Share `.textlintrc`?
-
-Options 2
-
-- Extends `.textlitnrc`
-
-Options 3
-
-- Import `.textlitnrc`
-
-Options 4
-
-- Share textlint config as node module?
-    - like plugin
-    - seamless plugin
+- jser.info
+- atomの[linter-textlint](https://github.com/1000ch/linter-textlint "linter-textlint")のグローバル向け
