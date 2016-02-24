@@ -10,7 +10,7 @@
       "min_interval": 1
     },
     "sentence-length": {
-      "max": 100
+      "max": 300
     },
     "no-start-duplicated-conjunction": {
       "interval": 2

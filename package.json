@@ -26,7 +26,7 @@
   "dependencies": {
     "textlint-plugin-jser-markdown": "^1.0.1",
     "textlint-rule-max-ten": "^2.0.0",
-    "textlint-rule-no-doubled-joshi": "^2.0.0",
+    "textlint-rule-no-doubled-joshi": "^3.2.0",
     "textlint-rule-no-dropping-the-ra": "^1.0.1",
     "textlint-rule-no-mix-dearu-desumasu": "^1.4.0",
     "textlint-rule-no-start-duplicated-conjunction": "^1.0.6",
