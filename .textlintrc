@@ -3,6 +3,7 @@
     "jser-markdown"
   ],
   "rules": {
+    "common-misspellings": true,
     "max-ten": {
       "max": 3
     },

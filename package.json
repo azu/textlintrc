@@ -21,7 +21,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "textlint": "^5.0.3"
+    "textlint": "^5.0.3",
+    "textlint-rule-common-misspellings": "^1.0.1"
   },
   "dependencies": {
     "textlint-plugin-jser-markdown": "^1.0.1",
