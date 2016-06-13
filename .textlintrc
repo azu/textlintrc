@@ -2,6 +2,11 @@
   "plugins": [
     "jser-markdown"
   ],
+  "filters": {
+    "node-types": {
+        "nodeTypes": ["Link"]
+    }
+  },
   "rules": {
     "common-misspellings": true,
     "max-ten": {
