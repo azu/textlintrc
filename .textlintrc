@@ -8,6 +8,9 @@
     }
   },
   "rules": {
+    "proofdict": {
+      "autoUpdate": true
+    },
     "common-misspellings": true,
     "max-ten": {
       "max": 3
@@ -21,7 +24,6 @@
     "no-start-duplicated-conjunction": {
       "interval": 2
     },
-    "spellcheck-tech-word": true,
     "no-mix-dearu-desumasu": true,
     "no-dropping-the-ra": true
   }
