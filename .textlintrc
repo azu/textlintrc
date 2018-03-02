@@ -9,7 +9,7 @@
   },
   "rules": {
     "proofdict": {
-      "autoUpdate": true
+      "dictURL": "https://azu.github.io/proof-dictionary/"
     },
     "common-misspellings": true,
     "max-ten": {
