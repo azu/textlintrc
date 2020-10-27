@@ -1,8 +1,13 @@
-# My Textlint config
+# My .textlintrc
 
 textlintの自分用設定
 
 - JSer.info
+
+## Playground
+
+- <>
+
 
 ## Example
 

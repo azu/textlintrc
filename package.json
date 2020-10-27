@@ -1,15 +1,15 @@
 {
-  "name": "textlint-config",
+  "name": "@azu/textlintrc",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azu/my-textlint-config.git"
+    "url": "git+https://github.com/azu/textlintrc.git"
   },
   "author": "azu",
   "email": "azuciao@gmail.com",
-  "homepage": "https://github.com/azu/my-textlint-config",
+  "homepage": "https://github.com/azu/textlintrc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/azu/my-textlint-config/issues"
+    "url": "https://github.com/azu/textlintrc/issues"
   },
   "version": "1.0.0",
   "description": "My textlint config",
