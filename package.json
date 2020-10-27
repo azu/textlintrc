@@ -19,7 +19,7 @@
   },
   "scripts": {
     "test": "textlint README.md",
-    "website": "textlint-website-generator --mode development --outputDir public"
+    "website": "textlint-website-generator --outputDir public"
   },
   "devDependencies": {
     "@textlint/website-generator": "^0.8.0",
