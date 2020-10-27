@@ -18,22 +18,18 @@
     "test": "test"
   },
   "scripts": {
-    "test": "textlint README.md"
+    "test": "textlint README.md",
+    "website": "textlint-website-generator --outputDir public"
   },
   "devDependencies": {
-    "textlint": "^10.1.1"
+    "@textlint/website-generator": "^0.8.0",
+    "textlint": "^11.7.6"
   },
   "dependencies": {
-    "textlint-filter-rule-node-types": "^1.0.0",
-    "textlint-plugin-jser-markdown": "^1.0.2",
-    "textlint-rule-common-misspellings": "^1.0.1",
-    "textlint-rule-max-ten": "^2.0.0",
-    "textlint-rule-no-doubled-joshi": "^3.5.1",
-    "textlint-rule-no-dropping-the-ra": "^1.1.2",
-    "textlint-rule-no-mix-dearu-desumasu": "^3.0.1",
-    "textlint-rule-no-start-duplicated-conjunction": "^2.0.2",
-    "textlint-rule-prh": "^5.0.1",
-    "textlint-rule-proofdict": "^2.0.0",
-    "textlint-rule-sentence-length": "^2.0.0"
+    "@textlint-rule/textlint-rule-no-unmatched-pair": "^1.0.7",
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-ja-unnatural-alphabet": "^2.0.1",
+    "textlint-rule-preset-japanese": "^5.0.0",
+    "textlint-rule-proofdict": "^2.0.4"
   }
 }

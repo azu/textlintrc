@@ -2,8 +2,7 @@
 
 textlintの自分用設定
 
-- jser.info
-- atomの[linter-textlint](https://github.com/1000ch/linter-textlint "linter-textlint")のグローバル向け
+- JSer.info
 
 ## Example
 

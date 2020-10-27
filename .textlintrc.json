@@ -1,0 +1,13 @@
+{
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "preset-japanese": true,
+    "ja-unnatural-alphabet": true,
+    "@textlint-rule/no-unmatched-pair": true,
+    "proofdict": {
+      "dictURL": "https://azu.github.io/proof-dictionary/"
+    }
+  }
+}
