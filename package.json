@@ -23,13 +23,14 @@
   },
   "devDependencies": {
     "@textlint/website-generator": "^0.8.0",
-    "textlint": "^11.7.6"
+    "textlint": "^11.7.7"
   },
   "dependencies": {
+    "@proofdict/textlint-rule-proofdict": "^3.1.1",
     "@textlint-rule/textlint-rule-no-unmatched-pair": "^1.0.7",
     "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-en-spell": "^1.2.1",
     "textlint-rule-ja-unnatural-alphabet": "^2.0.1",
-    "textlint-rule-preset-japanese": "^5.0.0",
-    "@proofdict/textlint-rule-proofdict": "^3.1.1"
+    "textlint-rule-preset-japanese": "^5.0.0"
   }
 }

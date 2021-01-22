@@ -8,6 +8,12 @@
     "@textlint-rule/no-unmatched-pair": true,
     "@proofdict/proofdict": {
       "dictURL": "https://azu.github.io/proof-dictionary/"
+    },
+    "en-spell": {
+      "personalDictionary": [
+        "textlint",
+        "JavaScript"
+      ]
     }
   }
 }
