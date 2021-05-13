@@ -330,6 +330,14 @@
   resolved "https://registry.yarnpkg.com/@proofdict/types/-/types-3.1.0.tgz#e8f040392ec91c28c939957e4d16eb98a985090e"
   integrity sha512-f8cxZ35ylr4n8TW/eUJ9KynEc484Tiocgl4a/ZZNS1dAH5G4vkJ+1AFw2ob/4dCiafy5tcue6TiZuWBFAmsS5g==
 
+"@textlint-ja/textlint-rule-no-filler@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@textlint-ja/textlint-rule-no-filler/-/textlint-rule-no-filler-1.0.2.tgz#5f37360e05fc6b80bc0505b13f1b34f17febc42f"
+  integrity sha512-uHYuZ8olaHRiv0MyK7N6WUnrrGruuA6bw8euvkgIPx3TT8zYeeqCv/C1yDi6RmYkJR+j7LCnDtfIGnSY69snqg==
+  dependencies:
+    kuromojin "^3.0.0"
+    textlint-util-to-string "^3.1.1"
+
 "@textlint-rule/textlint-rule-no-invalid-control-character@^1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@textlint-rule/textlint-rule-no-invalid-control-character/-/textlint-rule-no-invalid-control-character-1.2.0.tgz#3e8f03258d06b7deb2592bdb13626659c46abbf5"
