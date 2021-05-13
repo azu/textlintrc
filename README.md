@@ -2,12 +2,9 @@
 
 textlintの自分用設定
 
-- JSer.info
-
 ## Playground
 
 - <https://azu.github.io/textlintrc/>
-
 
 ## Example
 
