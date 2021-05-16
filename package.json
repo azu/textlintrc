@@ -22,7 +22,7 @@
     "website": "textlint-website-generator --outputDir public"
   },
   "devDependencies": {
-    "@textlint/website-generator": "0.11.2",
+    "@textlint/website-generator": "0.11.3",
     "textlint": "^11.9.1"
   },
   "dependencies": {
