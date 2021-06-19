@@ -4211,10 +4211,10 @@ textlint-filter-rule-comments@^1.2.2:
   resolved "https://registry.yarnpkg.com/textlint-filter-rule-comments/-/textlint-filter-rule-comments-1.2.2.tgz#3a72c494994e068e0e4aaad0f24ea7cfe338503a"
   integrity sha1-OnLElJlOBo4OSqrQ8k6nz+M4UDo=
 
-textlint-rule-en-spell@^1.2.2:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/textlint-rule-en-spell/-/textlint-rule-en-spell-1.2.2.tgz#411413066a9713426118f3c68632dde18cd2830b"
-  integrity sha512-SJFyeNUJNSZdbc9ro4y3M8dcInK25e0dIFzM2sCNW/E7UNtj2PpGQ1OjW/45Y7Z1pFAevoQfiNv/RZjiOZQVuA==
+textlint-rule-en-spell@^1.2.3:
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/textlint-rule-en-spell/-/textlint-rule-en-spell-1.2.3.tgz#73ec9a92c53651191717ba41247b80170a3e820b"
+  integrity sha512-+j000MmzhYCs6j0oUMTFEc7Nc5DFIvG4rUbhOqiCeSrj5vyzrJ/MH7XBhHVSZc+4JmpguVTeD0PQfX1ok/qzuw==
   dependencies:
     dictionary-en "^3.0.0"
     nspell "^2.1.2"
