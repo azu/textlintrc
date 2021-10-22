@@ -29,6 +29,7 @@
     "@proofdict/textlint-rule-proofdict": "^3.1.1",
     "@textlint-ja/textlint-rule-no-filler": "^1.1.0",
     "@textlint-ja/textlint-rule-no-synonyms": "^1.1.0",
+    "@textlint-rule/textlint-rule-no-duplicate-abbr": "^1.0.1",
     "@textlint-rule/textlint-rule-no-unmatched-pair": "^1.0.8",
     "sudachi-synonyms-dictionary": "^9.0.0",
     "textlint-filter-rule-comments": "^1.2.2",

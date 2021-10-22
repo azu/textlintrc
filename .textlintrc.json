@@ -8,13 +8,17 @@
     "@textlint-ja/no-filler": true,
     "@textlint-ja/no-synonyms": true,
     "@textlint-rule/no-unmatched-pair": true,
+    "@textlint-rule/textlint-rule-no-duplicate-abbr": true,
     "@proofdict/proofdict": {
       "dictURL": "https://azu.github.io/proof-dictionary/"
     },
     "en-spell": {
       "personalDictionary": [
         "textlint",
-        "JavaScript"
+        "JavaScript",
+        "jQuery",
+        "webkit",
+        "jser.info"
       ]
     }
   }

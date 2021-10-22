@@ -347,10 +347,22 @@
     textlint-rule-helper "^2.1.1"
     tiny-segmenter "^0.2.0"
 
+<<<<<<< Updated upstream
 "@textlint-rule/textlint-rule-no-invalid-control-character@^2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@textlint-rule/textlint-rule-no-invalid-control-character/-/textlint-rule-no-invalid-control-character-2.0.0.tgz#1d058af373bc34256097941429d0c04e5eca519a"
   integrity sha512-EmTC9mrmI5tm9AS+/jv46CzQVycdPjAvH5sk0DjjYCXYNv2oTWk+7naAyKJ3kKQlLzG4KHmX/JDHerVF2T6S2Q==
+=======
+"@textlint-rule/textlint-rule-no-duplicate-abbr@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@textlint-rule/textlint-rule-no-duplicate-abbr/-/textlint-rule-no-duplicate-abbr-1.0.1.tgz#45eb7837691619dd4a56d4c343f60945bb127c50"
+  integrity sha512-539uZX56BIKCtBuJGL91tGqdFRh00+yxuei35RWqJ2Czg/nJHYVy8iBGq2TdEDn2ak04876MM1gFqHfs++zggg==
+
+"@textlint-rule/textlint-rule-no-invalid-control-character@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@textlint-rule/textlint-rule-no-invalid-control-character/-/textlint-rule-no-invalid-control-character-1.2.0.tgz#3e8f03258d06b7deb2592bdb13626659c46abbf5"
+  integrity sha512-FgkOQr14H8D/LQVAEOR2cGWhzItb9MXCAvaBwKkysIfP9Ngwam+8NRmbphQ/GrAm3PXV63QmK1xwAKM1DntwmQ==
+>>>>>>> Stashed changes
   dependencies:
     execall "^1.0.0"
 
