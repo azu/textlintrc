@@ -206,15 +206,7 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@kvs/env@^0.2.0":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@kvs/env/-/env-0.2.1.tgz#973b7a10595ede55abc30e90caedfa5657c020a7"
-  integrity sha512-6dZlDtRjSRX3ubC+Rt5BdX+z3XTe92IgSG7wPu5a+qFPgKLqjlf+quY+J5JfY3WO8qZEdsMGk3PYTawJUnfrOQ==
-  dependencies:
-    "@kvs/indexeddb" "^0.2.1"
-    "@kvs/node-localstorage" "^0.2.1"
-
-"@kvs/env@^1.1.0":
+"@kvs/env@^1.0.0", "@kvs/env@^1.1.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@kvs/env/-/env-1.2.0.tgz#e5e28d229af08cc4e769b06d065feb61f99ee28f"
   integrity sha512-MJVudIYrHg1E0AKrognxK5EdqKFjYSsHsa47WQf8rIyzoeSK614mnqJ+2+ZJr7nY9nUYkYsFivxXbQffIzcqcg==
@@ -222,29 +214,12 @@
     "@kvs/indexeddb" "^1.2.0"
     "@kvs/node-localstorage" "^1.2.0"
 
-"@kvs/indexeddb@^0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@kvs/indexeddb/-/indexeddb-0.2.1.tgz#d7058cde64fc9913551d392599ca0aefe30ca1e7"
-  integrity sha512-kRFlWxSVS8HDReInHErYho7QfVttSaSD0eeeeQvvFFfC2U9YSR95L70ielgWd6hfUXNa7uzVwAzF8xvgyCCYLQ==
-  dependencies:
-    "@kvs/types" "^0.2.1"
-
 "@kvs/indexeddb@^1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@kvs/indexeddb/-/indexeddb-1.2.0.tgz#c93a4c2eb7a368f3c01e2544f1f4d90921153a5b"
   integrity sha512-elB0vtvM33ayqHVSL2jl5TMtoW/YaESuJVGf9yEO+8KZjhs+xxSDoUIEJYn9qD7pZc/LyMXVFBglr5Pxf2vWAQ==
   dependencies:
     "@kvs/types" "^1.2.0"
-
-"@kvs/node-localstorage@^0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@kvs/node-localstorage/-/node-localstorage-0.2.1.tgz#fee2981d17d715d42f39870a0e45c46e1eaa4813"
-  integrity sha512-10HDKOb/Oi2dGt7CV4UmIeTHQRFMErMjK3q/v/+s0d5YZukr7Er+SqaEJ9e5VFfJxEpaJ8pxRrkT+OLLX67jyw==
-  dependencies:
-    "@kvs/storage" "^0.2.1"
-    app-root-path "^3.0.0"
-    mkdirp "^1.0.4"
-    node-localstorage "^2.1.6"
 
 "@kvs/node-localstorage@^1.2.0":
   version "1.2.0"
@@ -256,24 +231,12 @@
     mkdirp "^1.0.4"
     node-localstorage "^2.1.6"
 
-"@kvs/storage@^0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@kvs/storage/-/storage-0.2.1.tgz#8a00b7f8f5a02bbec1a40004e28dc24c701785e5"
-  integrity sha512-Grepnd44Dr2RC+UxdcCe1SdRgIJBTeVihSdX6eRaMKCA2vHr5H63AftakG2rK1wo9pPItBsxFY5YQb64+j+LkQ==
-  dependencies:
-    "@kvs/types" "^0.2.1"
-
 "@kvs/storage@^1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@kvs/storage/-/storage-1.2.0.tgz#b9eaaed145dcba1a42891b2f418402b8b4a60d01"
   integrity sha512-Zd9rA4U3/h8n3CxNUzMnsz5+UPOng1dXOc0MyEy0RQzF0XlWSTyOrxErn57bPbO0MHoHdw11MEzhDDRYsNj7ZA==
   dependencies:
     "@kvs/types" "^1.2.0"
-
-"@kvs/types@^0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@kvs/types/-/types-0.2.1.tgz#68bf98a9c7a1792db378c2080f6af674cd46e433"
-  integrity sha512-tBJjUVCHOR8kk7ez9S4XTI+Qil0xgsRfdW3tAH3DfdoEsLDxANfsM9ZWhj2FWzvBMlQQAvbrENyggMTlw6IHfg==
 
 "@kvs/types@^1.2.0":
   version "1.2.0"
@@ -309,12 +272,12 @@
     "@proofdict/types" "^3.1.0"
     prh "5.4.4"
 
-"@proofdict/textlint-rule-proofdict@^3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@proofdict/textlint-rule-proofdict/-/textlint-rule-proofdict-3.1.1.tgz#ed61a3bbcc11abcf774b04b6903921e575e0e629"
-  integrity sha512-e3ZCbCVSuwrczNOuTvQPiHn9xOYIwMDJuWZH5tnHMXuh78JGzm2XtSvPuvrMZ0s8kPmK02HNDVo5aTQ8AnvLJw==
+"@proofdict/textlint-rule-proofdict@^3.1.2":
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@proofdict/textlint-rule-proofdict/-/textlint-rule-proofdict-3.1.2.tgz#cd09f86c3503b49c31dcd8ec114158ec379371bb"
+  integrity sha512-UoAedRyxwbtWXbjLvxxSA0BcN5Ao5cNdM/kQUzs4ontygBxz2SON/4gg605RQa9VzF9yqURzk25nChRJXtCRzQ==
   dependencies:
-    "@kvs/env" "^0.2.0"
+    "@kvs/env" "^1.0.0"
     "@proofdict/tester" "^3.1.0"
     "@textlint/kernel" "^3.3.6"
     "@textlint/types" "^1.4.5"
@@ -347,22 +310,15 @@
     textlint-rule-helper "^2.1.1"
     tiny-segmenter "^0.2.0"
 
-<<<<<<< Updated upstream
-"@textlint-rule/textlint-rule-no-invalid-control-character@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@textlint-rule/textlint-rule-no-invalid-control-character/-/textlint-rule-no-invalid-control-character-2.0.0.tgz#1d058af373bc34256097941429d0c04e5eca519a"
-  integrity sha512-EmTC9mrmI5tm9AS+/jv46CzQVycdPjAvH5sk0DjjYCXYNv2oTWk+7naAyKJ3kKQlLzG4KHmX/JDHerVF2T6S2Q==
-=======
 "@textlint-rule/textlint-rule-no-duplicate-abbr@^1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@textlint-rule/textlint-rule-no-duplicate-abbr/-/textlint-rule-no-duplicate-abbr-1.0.1.tgz#45eb7837691619dd4a56d4c343f60945bb127c50"
   integrity sha512-539uZX56BIKCtBuJGL91tGqdFRh00+yxuei35RWqJ2Czg/nJHYVy8iBGq2TdEDn2ak04876MM1gFqHfs++zggg==
 
-"@textlint-rule/textlint-rule-no-invalid-control-character@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@textlint-rule/textlint-rule-no-invalid-control-character/-/textlint-rule-no-invalid-control-character-1.2.0.tgz#3e8f03258d06b7deb2592bdb13626659c46abbf5"
-  integrity sha512-FgkOQr14H8D/LQVAEOR2cGWhzItb9MXCAvaBwKkysIfP9Ngwam+8NRmbphQ/GrAm3PXV63QmK1xwAKM1DntwmQ==
->>>>>>> Stashed changes
+"@textlint-rule/textlint-rule-no-invalid-control-character@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@textlint-rule/textlint-rule-no-invalid-control-character/-/textlint-rule-no-invalid-control-character-2.0.0.tgz#1d058af373bc34256097941429d0c04e5eca519a"
+  integrity sha512-EmTC9mrmI5tm9AS+/jv46CzQVycdPjAvH5sk0DjjYCXYNv2oTWk+7naAyKJ3kKQlLzG4KHmX/JDHerVF2T6S2Q==
   dependencies:
     execall "^1.0.0"
 

@@ -26,7 +26,7 @@
     "textlint": "^12.0.2"
   },
   "dependencies": {
-    "@proofdict/textlint-rule-proofdict": "^3.1.1",
+    "@proofdict/textlint-rule-proofdict": "^3.1.2",
     "@textlint-ja/textlint-rule-no-filler": "^1.1.0",
     "@textlint-ja/textlint-rule-no-synonyms": "^1.1.0",
     "@textlint-rule/textlint-rule-no-duplicate-abbr": "^1.0.1",
