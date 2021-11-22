@@ -317,7 +317,7 @@
     textlint-rule-helper "^2.1.1"
     tiny-segmenter "^0.2.0"
 
-"@textlint-rule/textlint-rule-no-duplicate-abbr@^1.0.1":
+"@textlint-rule/textlint-rule-no-duplicate-abbr@^1.0.2":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@textlint-rule/textlint-rule-no-duplicate-abbr/-/textlint-rule-no-duplicate-abbr-1.0.2.tgz#b23eea0cd1c029a2f8c6fa8faec24a153f9dc1dd"
   integrity sha512-4V8mrXcsPM7jwsGHkiFlTlBt57jL/a5qfxyCWp1H/SQBBvZ8w2tdRQmn9iu555ay91uXDVOlkDrpyRz4+YujTw==
