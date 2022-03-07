@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@textlint/website-generator": "0.12.1",
-    "textlint": "^12.1.0"
+    "textlint": "^12.1.1"
   },
   "dependencies": {
     "@proofdict/textlint-rule-proofdict": "^3.1.2",
@@ -33,7 +33,7 @@
     "@textlint-rule/textlint-rule-no-unmatched-pair": "^1.0.8",
     "sudachi-synonyms-dictionary": "^9.0.0",
     "textlint-filter-rule-comments": "^1.2.2",
-    "textlint-rule-en-spell": "^1.2.3",
+    "textlint-rule-en-spell": "^1.2.4",
     "textlint-rule-ja-unnatural-alphabet": "^2.0.1",
     "textlint-rule-preset-japanese": "^7.0.0"
   }
