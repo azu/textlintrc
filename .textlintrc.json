@@ -12,14 +12,8 @@
     "@proofdict/proofdict": {
       "dictURL": "https://azu.github.io/proof-dictionary/"
     },
-    "en-spell": {
-      "personalDictionary": [
-        "textlint",
-        "JavaScript",
-        "jQuery",
-        "webkit",
-        "jser.info"
-      ]
+    "@textlint-rule/gramma": {
+      "api_url": "http://localhost:12468/v2/check"
     }
   }
 }
