@@ -11,9 +11,6 @@
     "@textlint-rule/no-duplicate-abbr": true,
     "@proofdict/proofdict": {
       "dictURL": "https://azu.github.io/proof-dictionary/"
-    },
-    "@textlint-rule/gramma": {
-      "api_url": "http://localhost:12468/v2/check"
     }
   }
 }
