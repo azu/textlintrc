@@ -3971,10 +3971,10 @@ structured-source@^4.0.0:
   dependencies:
     boundary "^2.0.0"
 
-sudachi-synonyms-dictionary@^12.0.0:
-  version "12.0.0"
-  resolved "https://registry.yarnpkg.com/sudachi-synonyms-dictionary/-/sudachi-synonyms-dictionary-12.0.0.tgz#fa8cae8f8a41cee22f797d6c7d6613571c64692b"
-  integrity sha512-2v/t0Q6SxV9LkzR0sBgEFPlwpv2TgkwpohABPfAU4vbQPt2XGRkfXnyidqekXI+GXPL60LI9Q8z2Ve8mNZiluA==
+sudachi-synonyms-dictionary@^14.0.0:
+  version "14.0.0"
+  resolved "https://registry.yarnpkg.com/sudachi-synonyms-dictionary/-/sudachi-synonyms-dictionary-14.0.0.tgz#388dd3c790b451c7eac9dfc818b3cfcac675847e"
+  integrity sha512-7cPjewiGNukkFhzlZIbyNhUzryYl/IPt5zEcaiAc6ln95hqLR0+DMzQxxjQRIj3UEsEOqFTS41MgUzR9TdBx0Q==
 
 supports-color@^5.3.0:
   version "5.5.0"
